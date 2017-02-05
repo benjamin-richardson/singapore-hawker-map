@@ -1,4 +1,10 @@
-node_modules
+# Ignore all node_modules, with exceptions
+node_modules/*
+
+# These modules are not in NPM, but still should keep them in the node_modules folder for easy use of Browserify
+# !node_modules/jquery-focuspoint-master
+
+
 *.log
 build
 tmp

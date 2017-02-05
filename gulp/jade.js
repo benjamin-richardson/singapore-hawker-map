@@ -57,6 +57,7 @@ export default function(gulp, plugins, args, config, taskTarget, browserSync) {
     .pipe(plugins.jade({
       jade: jade,
       pretty: true,
+      basedir: '/',
       locals: {
         config: config,
         debug: true,
@@ -70,7 +71,7 @@ export default function(gulp, plugins, args, config, taskTarget, browserSync) {
       conservativeCollapse: true,
       removeCommentsFromCDATA: true,
       removeEmptyAttributes: true,
-      removeRedundantAttributes: true
+      removeRedundantAttributes: false
     }))
     .pipe(gulp.dest(dest))
     .on('end', browserSync.reload);

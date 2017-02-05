@@ -1,0 +1,11 @@
+include ../map/map
+
+mixin hawker-centre(spec)
+  - spec = spec || {}
+  - spec.__class = spec.__class || ''
+  - spec.attributes = spec.attributes || ''
+
+  div(class=spec.__class)&attributes(spec.attributes)
+    p This is an example paragraph for the hawker-centre module
+
+    +map()

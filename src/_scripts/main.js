@@ -4,9 +4,11 @@
 'use strict';
 
 import $ from 'jquery';
-import Link from '../_modules/link/link';
+import HawkerMap from '../_modules/map/map';
+import HawkerMapController from './map-controller';
 
 $(() => {
-  new Link(); // Activate Link modules logic
-  console.log('Welcome to Yeogurt!');
+  new HawkerMap();
+
+  new HawkerMapController();
 });

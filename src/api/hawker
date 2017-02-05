@@ -1,0 +1,67 @@
+{
+  "name": "Amoy Street Food Centre",
+  "id": "asfc",
+  "address": {
+    "unit": "",
+    "number": "7",
+    "road": "Maxwell Road",
+    "postcode": "069111"
+  },
+  "phone": "+65 9027 5153",
+  "hours": {
+    "mon": [600, 1800],
+    "tue": [600, 1800],
+    "wed": [600, 1800],
+    "thur": [600, 1800],
+    "fri": [600, 1800],
+    "sat": [600, 1800],
+    "sun": [600, 1800]
+  },
+  "levels": 2,
+  "totalStalls": [70, 53],
+  "stalls": [
+    {
+      "id": 118,
+      "level": 1,
+      "shop": 18,
+      "name": "Hoo Kee Bak Chang",
+      "image": "",
+      "cuisine": ["Asian", "Local"],
+      "dishes": ["sticky rice"],
+      "menu": [
+        {
+          "name": "Sticky rice dumplings",
+          "description": "",
+          "price": "3.45",
+          "image": "",
+          "recommends": 0
+        },
+        {
+          "name": "Salted egg yolk chestnuts",
+          "description": "",
+          "price": "3.6",
+          "image": "",
+          "recommends": 3
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "level": 1,
+      "shop": 39,
+      "name": "A Noodle Story",
+      "image": "",
+      "cuisine": ["Asian", "Chinese", "Japanese"],
+      "dishes": ["noodles", "bak chor mee"],
+      "menu": [
+        {
+          "name": "Singaporean style ramen",
+          "description": "flat yellow noodles with mushrooms and minced meat, tossed in kelp, topped with Japanese-style barbecued pork, boiled wantons, onsen tamago (poached egg), and a crispy potato-wrapped prawn ",
+          "price": "5",
+          "image": "",
+          "recommends": 16
+        }
+      ]
+    }
+  ]
+}

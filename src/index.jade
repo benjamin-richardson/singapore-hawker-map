@@ -1,15 +1,32 @@
 extends _layouts/base
 
-include _modules/link/link
+block config
+  - var baseUrl = '/'
+
+include _modules/list/list
+include _modules/hawker-centre/hawker-centre
 
 block content
   .container
-    .yeogurt-info
-      h1 Welcome to Yeogurt!
-      p.
-        Take a look at the
-        #[+link({text: 'documentation'})(href='https://github.com/larsonjj/generator-yeogurt#yeogurt-generator---')]
-        and start mixing up something awesome.
-      p
-        img.logo(src="images/yeogurt-swirl.png", width="75px")
-  code.version v1.5.3
+
+    section.overlay-panel
+      h1 Amoy Street Hawker Centre
+
+      h2 Filter
+
+      h3 Cuisine
+        ul
+          - cuisineTypes = ['Chinese', 'Malay', 'Western']
+          - each item in cuisineTypes
+            li
+              a(href="#")=item
+
+      h3 Dishes
+        ul
+          - dishTypes = ['Chicken Rice', 'Kway Teo', 'Carrot Cake', 'Hor Fun']
+          - each item in dishTypes
+            li
+              a(href="#")=item
+
+    section.full-screen-container
+      +hawker-centre({'__class': 'amoy-street-food-centre', 'attributes': {'data-hawker': 'asfc'}})
