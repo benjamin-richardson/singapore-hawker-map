@@ -9,19 +9,32 @@ include _modules/hawker-centre/hawker-centre
 block content
   .container
 
+    | <script id="stall-list-template" type="text/template">
+    li
+      .id(data-id='')
+        a.name(href='#')
+        span &nbsp;#
+          span.level
+          span.shop
+    | </script>
+
+
     section.overlay-panel
       h1 Amoy Street Hawker Centre
 
       h2 Filter
 
-      h3 Cuisine
-        ul
-          - cuisineTypes = ['Chinese', 'Malay', 'Western']
-          - each item in cuisineTypes
-            li
-              a(href="#")=item
+      #stall-list
+        h3 Stalls
+        ul.list
 
-      h3 Dishes
+
+      #cuisine-list
+        h3 Cuisine
+        ul.list
+
+      #dish-list
+        h3 Dishes
         ul
           - dishTypes = ['Chicken Rice', 'Kway Teo', 'Carrot Cake', 'Hor Fun']
           - each item in dishTypes
