@@ -1,10 +1,10 @@
 {
-  "name": "Amoy Street Food Centre",
+  "name": "amoy street food centre",
   "id": "asfc",
   "address": {
     "unit": "",
     "number": "7",
-    "road": "Maxwell Road",
+    "road": "maxwell road",
     "postcode": "069111"
   },
   "phone": "+65 9027 5153",
@@ -18,26 +18,26 @@
     "sun": [600, 1800]
   },
   "levels": 2,
-  "totalStalls": [70, 53],
+  "totalstalls": [70, 53],
   "stalls": [
     {
       "id": 118,
       "level": 1,
       "shop": 18,
-      "name": "Hoo Kee Bak Chang",
+      "name": "hoo kee bak chang",
       "image": "",
-      "cuisine": ["Asian", "Local"],
+      "cuisine": ["asian", "local"],
       "dishes": ["sticky rice"],
       "menu": [
         {
-          "name": "Sticky rice dumplings",
+          "name": "sticky rice dumplings",
           "description": "",
           "price": "3.45",
           "image": "",
           "recommends": 0
         },
         {
-          "name": "Salted egg yolk chestnuts",
+          "name": "salted egg yolk chestnuts",
           "description": "",
           "price": "3.6",
           "image": "",
@@ -49,14 +49,14 @@
       "id": 139,
       "level": 1,
       "shop": 39,
-      "name": "A Noodle Story",
+      "name": "a noodle story",
       "image": "",
-      "cuisine": ["Asian", "Chinese", "Japanese"],
+      "cuisine": ["asian", "chinese", "japanese"],
       "dishes": ["noodles", "bak chor mee"],
       "menu": [
         {
-          "name": "Singaporean style ramen",
-          "description": "flat yellow noodles with mushrooms and minced meat, tossed in kelp, topped with Japanese-style barbecued pork, boiled wantons, onsen tamago (poached egg), and a crispy potato-wrapped prawn ",
+          "name": "singaporean style ramen",
+          "description": "flat yellow noodles with mushrooms and minced meat, tossed in kelp, topped with japanese-style barbecued pork, boiled wantons, onsen tamago (poached egg), and a crispy potato-wrapped prawn ",
           "price": "5",
           "image": "",
           "recommends": 16
