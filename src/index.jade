@@ -18,6 +18,18 @@ block content
           span.shop
     | </script>
 
+    | <script id="cuisine-list-template" type="text/template">
+    li
+      .id(data-id='')
+        a.cuisine(href='#')
+    | </script>
+
+    | <script id="dish-list-template" type="text/template">
+    li
+      .id(data-id='')
+        a.dish(href='#')
+    | </script>
+
 
     section.overlay-panel
       h1 Amoy Street Hawker Centre
@@ -33,13 +45,11 @@ block content
         h3 Cuisine
         ul.list
 
+
       #dish-list
         h3 Dishes
-        ul
-          - dishTypes = ['Chicken Rice', 'Kway Teo', 'Carrot Cake', 'Hor Fun']
-          - each item in dishTypes
-            li
-              a(href="#")=item
+        ul.list
+
 
     section.full-screen-container
       +hawker-centre({'__class': 'amoy-street-food-centre', 'attributes': {'data-hawker': 'asfc'}})
