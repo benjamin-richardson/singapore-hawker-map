@@ -3,6 +3,6 @@ mixin map(spec)
   - spec.__class = spec.__class || ''
   - spec.attributes = spec.attributes || ''
 
-  div(class=spec.__class)&attributes(spec.attributes)
+  div.map(class=spec.__class)&attributes(spec.attributes)
 
-    include ../../_images/test.svg
+    include ../../_images/amoy-street-food-centre/amoy-street-food-centre-01.svg
