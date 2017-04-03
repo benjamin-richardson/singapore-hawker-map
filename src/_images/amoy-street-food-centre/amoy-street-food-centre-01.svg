@@ -5,11 +5,12 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+  .st2{stroke:#000000;stroke-miterlimit:10;}
 	#tables-chairs circle { fill: yellow; }
 	<!-- #tables-chairs rect { fill: red; } -->
-	#hawker-stalls g:nth-child(n) rect { fill: #00ff00; }
-	#hawker-stalls g:nth-child(2n) rect { fill: #00aa00; }
-	#hawker-stalls g:nth-child(3n) rect { fill: #008800; }
+	<!-- #hawker-stalls g:nth-child(n) rect { fill: #00ff00; } -->
+	<!-- #hawker-stalls g:nth-child(2n) rect { fill: #00aa00; } -->
+	<!-- #hawker-stalls g:nth-child(3n) rect { fill: #008800; } -->
 	#hawker-stalls text { font-family: 'Verdana'; font-size: 14px; color: #fff; }
 
 </style>
@@ -494,383 +495,383 @@
 	<rect x="1610" y="638.2" class="st0" width="44" height="18"/>
 </g>
 <g id="hawker-stalls">
-	<g id="01-70">
-		<rect x="323" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0170">
+		<rect x="323" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="323" y="212.5" transform="matrix(1 0 0 1 0 20)">#01-70</text>
 	</g>
 
-	<g id="01-69">
-		<rect x="380.3" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0169">
+		<rect x="380.3" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="380.3" y="212.4" transform="matrix(1 0 0 1 0 20)">#01-69</text>
 	</g>
 
-	<g id="01-71">
-		<rect x="323" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0171">
+		<rect x="323" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="323" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-71</text>
 	</g>
 
-	<g id="01-68">
-		<rect x="380.3" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0168">
+		<rect x="380.3" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="380.3" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-68</text>
 	</g>
 
-	<g id="01-72">
-		<rect x="323" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0172">
+		<rect x="323" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="323" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-72</text>
 	</g>
 
-	<g id="01-67">
-		<rect x="380.3" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0167">
+		<rect x="380.3" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="380.3" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-67</text>
 	</g>
 
-	<g id="01-73">
-		<rect x="323" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0173">
+		<rect x="323" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="323" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-73</text>
 	</g>
 
-	<g id="01-66">
-		<rect x="380.3" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0166">
+		<rect x="380.3" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="380.3" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-66</text>
 	</g>
 
-	<g id="01-74">
-		<rect x="323" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0174">
+		<rect x="323" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="323" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-74</text>
 	</g>
 
-	<g id="01-65">
-		<rect x="380.3" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0165">
+		<rect x="380.3" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="380.3" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-65</text>
 	</g>
 
-	<g id="01-75">
-		<rect x="323" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0175">
+		<rect x="323" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="323" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-75</text>
 	</g>
 
-	<g id="01-64">
-		<rect x="380.3" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0164">
+		<rect x="380.3" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="380.3" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-64</text>
 	</g>
 
-	<g id="01-76">
-		<rect x="323" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0176">
+		<rect x="323" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="323" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-76</text>
 	</g>
 
-	<g id="01-63">
-		<rect x="380.3" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0163">
+		<rect x="380.3" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="380.3" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-63</text>
 	</g>
 
-	<g id="01-55">
-		<rect x="594.7" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0155">
+		<rect x="594.7" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="594.7" y="212.4" transform="matrix(1 0 0 1 0 20)">#01-55</text>
 	</g>
 
-	<g id="01-54">
-		<rect x="652" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0154">
+		<rect x="652" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="652" y="212.4" transform="matrix(1 0 0 1 0 20)">#01-54</text>
 	</g>
 
-	<g id="01-56">
-		<rect x="594.7" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0156">
+		<rect x="594.7" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="594.7" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-56</text>
 	</g>
 
-	<g id="01-53">
-		<rect x="652" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0153">
+		<rect x="652" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="652" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-53</text>
 	</g>
 
-	<g id="01-57">
-		<rect x="594.7" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0157">
+		<rect x="594.7" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="594.7" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-57</text>
 	</g>
 
-	<g id="01-52">
-		<rect x="652" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0152">
+		<rect x="652" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="652" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-52</text>
 	</g>
 
-	<g id="01-58">
-		<rect x="594.7" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0158">
+		<rect x="594.7" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="594.7" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-58</text>
 	</g>
 
-	<g id="01-51">
-		<rect x="652" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0151">
+		<rect x="652" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="652" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-51</text>
 	</g>
 
-	<g id="01-59">
-		<rect x="594.7" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0159">
+		<rect x="594.7" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="594.7" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-59</text>
 	</g>
 
-	<g id="01-50">
-		<rect x="652" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0150">
+		<rect x="652" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="652" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-50</text>
 	</g>
 
-	<g id="01-60">
-		<rect x="594.7" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0160">
+		<rect x="594.7" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="594.7" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-60</text>
 	</g>
 
-	<g id="01-49">
-		<rect x="652" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0149">
+		<rect x="652" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="652" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-49</text>
 	</g>
 
-	<g id="01-61">
-		<rect x="594.7" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0161">
+		<rect x="594.7" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="594.7" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-61</text>
 	</g>
 
-	<g id="01-48">
-		<rect x="652" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0148">
+		<rect x="652" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="652" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-48</text>
 	</g>
 
-	<g id="01-62">
-		<rect x="594.7" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0162">
+		<rect x="594.7" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="594.7" y="630" transform="matrix(1 0 0 1 0 20)">#01-62</text>
 	</g>
 
-	<g id="01-47">
-		<rect x="652" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0147">
+		<rect x="652" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="652" y="630" transform="matrix(1 0 0 1 0 20)">#01-47</text>
 	</g>
 
-	<g id="01-39">
-		<rect x="866" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0139">
+		<rect x="866" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="866" y="212.4" transform="matrix(1 0 0 1 0 20)">#01-39</text>
 	</g>
 
-	<g id="01-38">
-		<rect x="923.3" y="212.4" class="st0" width="57.3" height="55.9"/>
+	<g id="stall-0138">
+		<rect x="923.3" y="212.4" class="st2" fill="#ffffff" width="57.3" height="55.9"/>
 		<text x="923.3" y="212.4" transform="matrix(1 0 0 1 0 20)">#01-38</text>
 	</g>
 
-	<g id="01-40">
-		<rect x="866" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0140">
+		<rect x="866" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="866" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-40</text>
 	</g>
 
-	<g id="01-37">
-		<rect x="923.3" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0137">
+		<rect x="923.3" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="923.3" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-37</text>
 	</g>
 
-	<g id="01-41">
-		<rect x="866" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0141">
+		<rect x="866" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="866" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-41</text>
 	</g>
 
-	<g id="01-36">
-		<rect x="923.3" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0136">
+		<rect x="923.3" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="923.3" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-36</text>
 	</g>
 
-	<g id="01-42">
-		<rect x="866" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0142">
+		<rect x="866" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="866" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-42</text>
 	</g>
 
-	<g id="01-35">
-		<rect x="923.3" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0135">
+		<rect x="923.3" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="923.3" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-35</text>
 	</g>
 
-	<g id="01-43">
-		<rect x="866" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0143">
+		<rect x="866" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="866" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-43</text>
 	</g>
 
-	<g id="01-34">
-		<rect x="923.3" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0134">
+		<rect x="923.3" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="923.3" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-34</text>
 	</g>
 
-	<g id="01-44">
-		<rect x="866" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0144">
+		<rect x="866" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="866" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-44</text>
 	</g>
 
-	<g id="01-33">
-		<rect x="923.3" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0133">
+		<rect x="923.3" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="923.3" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-33</text>
 	</g>
 
-	<g id="01-45">
-		<rect x="866" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0145">
+		<rect x="866" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="866" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-45</text>
 	</g>
 
-	<g id="01-32">
-		<rect x="923.3" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0132">
+		<rect x="923.3" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="923.3" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-32</text>
 	</g>
 
-	<g id="01-46">
-		<rect x="866" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0146">
+		<rect x="866" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="866" y="630" transform="matrix(1 0 0 1 0 20)">#01-46</text>
 	</g>
 
-	<g id="01-31">
-		<rect x="923.3" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0131">
+		<rect x="923.3" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="923.3" y="630" transform="matrix(1 0 0 1 0 20)">#01-31</text>
 	</g>
 
-	<g id="01-24">
-		<rect x="1137" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0124">
+		<rect x="1137" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1137" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-24</text>
 	</g>
 
-	<g id="01-23">
-		<rect x="1194.3" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0123">
+		<rect x="1194.3" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1194.3" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-23</text>
 	</g>
 
-	<g id="01-25">
-		<rect x="1137" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0125">
+		<rect x="1137" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1137" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-25</text>
 	</g>
 
-	<g id="01-22">
-		<rect x="1194.3" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0122">
+		<rect x="1194.3" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1194.3" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-22</text>
 	</g>
 
-	<g id="01-26">
-		<rect x="1137" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0126">
+		<rect x="1137" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1137" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-26</text>
 	</g>
 
-	<g id="01-21">
-		<rect x="1194.3" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0121">
+		<rect x="1194.3" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1194.3" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-21</text>
 	</g>
 
-	<g id="01-27">
-		<rect x="1137" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0127">
+		<rect x="1137" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1137" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-27</text>
 	</g>
 
-	<g id="01-20">
-		<rect x="1194.3" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0120">
+		<rect x="1194.3" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1194.3" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-20</text>
 	</g>
 
-	<g id="01-28">
-		<rect x="1137" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0128">
+		<rect x="1137" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1137" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-28</text>
 	</g>
 
-	<g id="01-19">
-		<rect x="1194.3" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0119">
+		<rect x="1194.3" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1194.3" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-19</text>
 	</g>
 
-	<g id="01-29">
-		<rect x="1137" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0129">
+		<rect x="1137" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="1137" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-29</text>
 	</g>
 
-	<g id="01-18">
-		<rect x="1194.3" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0118">
+		<rect x="1194.3" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="1194.3" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-18</text>
 	</g>
 
-	<g id="01-30">
-		<rect x="1137" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0130">
+		<rect x="1137" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="1137" y="630" transform="matrix(1 0 0 1 0 20)">#01-30</text>
 	</g>
 
-	<g id="01-17">
-		<rect x="1194.3" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0117">
+		<rect x="1194.3" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="1194.3" y="630" transform="matrix(1 0 0 1 0 20)">#01-17</text>
 	</g>
 
-	<g id="01-09">
-		<rect x="1407.7" y="213" class="st0" width="57.3" height="55.3"/>
+	<g id="stall-0109">
+		<rect x="1407.7" y="213" class="st2" fill="#ffffff" width="57.3" height="55.3"/>
 		<text x="1407.7" y="213" transform="matrix(1 0 0 1 0 20)">#01-09</text>
 	</g>
 
-	<g id="01-08">
-		<rect x="1465" y="213" class="st0" width="57.3" height="55.3"/>
+	<g id="stall-0108">
+		<rect x="1465" y="213" class="st2" fill="#ffffff" width="57.3" height="55.3"/>
 		<text x="1465" y="213" transform="matrix(1 0 0 1 0 20)">#01-08</text>
 	</g>
 
-	<g id="01-10">
-		<rect x="1407.7" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0110">
+		<rect x="1407.7" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1407.7" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-10</text>
 	</g>
 
-	<g id="01-07">
-		<rect x="1465" y="268.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0107">
+		<rect x="1465" y="268.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1465" y="268.3" transform="matrix(1 0 0 1 0 20)">#01-07</text>
 	</g>
 
-	<g id="01-11">
-		<rect x="1407.7" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0111">
+		<rect x="1407.7" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1407.7" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-11</text>
 	</g>
 
-	<g id="01-06">
-		<rect x="1465" y="329.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0106">
+		<rect x="1465" y="329.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1465" y="329.3" transform="matrix(1 0 0 1 0 20)">#01-06</text>
 	</g>
 
-	<g id="01-12">
-		<rect x="1407.7" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0112">
+		<rect x="1407.7" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1407.7" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-12</text>
 	</g>
 
-	<g id="01-05">
-		<rect x="1465" y="390.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0105">
+		<rect x="1465" y="390.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1465" y="390.3" transform="matrix(1 0 0 1 0 20)">#01-05</text>
 	</g>
 
-	<g id="01-13">
-		<rect x="1407.7" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0113">
+		<rect x="1407.7" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1407.7" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-13</text>
 	</g>
 
-	<g id="01-04">
-		<rect x="1465" y="451.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0104">
+		<rect x="1465" y="451.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1465" y="451.3" transform="matrix(1 0 0 1 0 20)">#01-04</text>
 	</g>
 
-	<g id="01-14">
-		<rect x="1407.7" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0114">
+		<rect x="1407.7" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1407.7" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-14</text>
 	</g>
 
-	<g id="01-03">
-		<rect x="1465" y="512.3" class="st0" width="57.3" height="61"/>
+	<g id="stall-0103">
+		<rect x="1465" y="512.3" class="st2" fill="#ffffff" width="57.3" height="61"/>
 		<text x="1465" y="512.3" transform="matrix(1 0 0 1 0 20)">#01-03</text>
 	</g>
 
-	<g id="01-15">
-		<rect x="1407.7" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0115">
+		<rect x="1407.7" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="1407.7" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-15</text>
 	</g>
 
-	<g id="01-02">
-		<rect x="1465" y="573.3" class="st0" width="57.3" height="56.7"/>
+	<g id="stall-0102">
+		<rect x="1465" y="573.3" class="st2" fill="#ffffff" width="57.3" height="56.7"/>
 		<text x="1465" y="573.3" transform="matrix(1 0 0 1 0 20)">#01-02</text>
 	</g>
 
-	<g id="01-16">
-		<rect x="1407.7" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0116">
+		<rect x="1407.7" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="1407.7" y="630" transform="matrix(1 0 0 1 0 20)">#01-16</text>
 	</g>
 
-	<g id="01-01">
-		<rect x="1465" y="630" class="st0" width="57.3" height="52.3"/>
+	<g id="stall-0101">
+		<rect x="1465" y="630" class="st2" fill="#ffffff" width="57.3" height="52.3"/>
 		<text x="1465" y="630" transform="matrix(1 0 0 1 0 20)">#01-01</text>
 	</g>
 </g>
