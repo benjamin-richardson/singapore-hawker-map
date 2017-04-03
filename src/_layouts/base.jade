@@ -27,13 +27,14 @@ body
   <p class='browsehappy'>You are using an <strong>outdated</strong> browser. Please <a href='http://browsehappy.com/'>upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
 
-  block content
+  .page-container
+    block content
 
   block scripts
-    script(src= baseUrl + 'scripts/vendor/snap.svg.js')
-    script(src= baseUrl + 'scripts/vendor/svg-pan-zoom.js')
+    script(defer, src= baseUrl + 'scripts/vendor/snap.svg.js')
+    script(defer, src= baseUrl + 'scripts/vendor/svg-pan-zoom.js')
     //- script(src= baseUrl + 'scripts/vendor/snap.svg.min.js')
     //- script(src= baseUrl + 'scripts/vendor/svg-pan-zoom.min.js')
-    script(src= baseUrl + 'scripts/main.js')
+    script(defer ,src= baseUrl + 'scripts/main.js')
 
 </html>
