@@ -7,32 +7,35 @@ include _modules/list/list
 include _modules/hawker-centre/hawker-centre
 
 block content
-  .container
 
-    | <script id="stall-list-template" type="text/template">
-    li
-      .id(data-id='')
-        a.name(href='#')
-        span &nbsp;#
-          span.level
-          span.shop
-    | </script>
+  | <script id="stall-list-template" type="text/template">
+  li
+    .id(data-id='')
+      a.name(href='#')
+      span &nbsp;#
+        span.level
+        span.shop
+  | </script>
 
-    | <script id="cuisine-list-template" type="text/template">
-    li
-      .id(data-id='')
-        a.cuisine(href='#')
-    | </script>
+  | <script id="cuisine-list-template" type="text/template">
+  li
+    .id(data-id='')
+      a.cuisine.js-cuisine(href='#')
+  | </script>
 
-    | <script id="dish-list-template" type="text/template">
-    li
-      .id(data-id='')
-        a.dish(href='#')
-    | </script>
+  | <script id="dish-list-template" type="text/template">
+  li
+    .id(data-id='')
+      a.dish(href='#')
+  | </script>
 
 
+  header
+    h1 Amoy Street Hawker Centre
+
+
+  .main-container
     section.overlay-panel
-      h1 Amoy Street Hawker Centre
 
       h2 Filter
 

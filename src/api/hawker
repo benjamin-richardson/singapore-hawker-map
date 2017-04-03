@@ -21,9 +21,9 @@
   "totalstalls": [70, 53],
   "stalls": [
     {
-      "id": 118,
+      "id": 18,
       "level": 1,
-      "shop": 18,
+      "shop": 8,
       "name": "hoo kee bak chang",
       "image": "",
       "cuisine": ["asian", "local"],
